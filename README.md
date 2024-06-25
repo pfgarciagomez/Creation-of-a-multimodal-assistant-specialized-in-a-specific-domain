@@ -1,2 +1,10 @@
 # Creation-of-a-multimodal-assistant-specialized-in-a-specific-domain
-Proyecto realizado como TFG para el Grado de Ingeniería Robótica de la Universidad de Alicante.
+Project completed as a Final Degree Project for the Bachelor's Degree in Robotics Engineering at the University of Alicante.
+
+For running the main app:
+
+1. Download the models: Mistral and LLaVA.
+2. Install requirements.txt
+4. python createVectorStore.py
+5. python server_app.py
+6. streamlit run client_app.py
