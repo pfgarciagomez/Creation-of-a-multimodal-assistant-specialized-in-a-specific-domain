@@ -1,0 +1,210 @@
+<s>[INST] ¿Qué tipo de mascotas tiene María? [/INST] María tiene un perro y dos gatos.</s>
+<s>[INST] ¿Cómo se llama el perro de María? [/INST] El perro de María se llama Max.</s>
+<s>[INST] ¿Cuál es la raza del perro de María? [/INST] El perro de María es un labrador retriever.</s>
+<s>[INST] ¿Cuántos años tiene el perro de María? [/INST] El perro de María tiene 5 años.</s>
+<s>[INST] ¿Cómo se llaman los gatos de María? [/INST] Los gatos de María se llaman Luna y Simba.</s>
+<s>[INST] ¿Cuál es el color del pelaje de Luna? [/INST] Luna tiene el pelaje negro.</s>
+<s>[INST] ¿Y Simba de qué color es? [/INST] Simba tiene el pelaje anaranjado.</s>
+<s>[INST] ¿María lleva a sus mascotas al veterinario regularmente? [/INST] Sí, María lleva a sus mascotas al veterinario cada seis meses para chequeos de rutina.</s>
+<s>[INST] ¿Qué comida le gusta más a los animales de María? [/INST] A los animales de María les encanta la comida húmeda.</s>
+<s>[INST] ¿Cómo entrena María a sus perro? [/INST] María entrena a su perro usando el método de refuerzo positivo.</s>
+<s>[INST] ¿Cuál es el juguete favorito de los gatos de María? [/INST] El juguete favorito de los gatos de María es una pelota de lana.</s>
+<s>[INST] ¿María suele llevar a sus mascotas de paseo? [/INST] Sí, María suele llevar a sus mascotas de paseo al parque cercano.</s>
+<s>[INST] ¿Dónde duermen las mascotas de María? [/INST] Las mascotas de María duermen en sus respectivas camas en la sala de estar.</s>
+<s>[INST] ¿María ha pensado en tener más mascotas? [/INST] Sí, María está considerando adoptar un pájaro.</s>
+<s>[INST] ¿Qué precauciones toma María para cuidar a sus mascotas en verano? [/INST] María asegura que sus mascotas tengan suficiente agua fresca y sombra durante los días calurosos de verano.</s>
+<s>[INST] ¿Cómo se comportan las mascotas de María con los extraños? [/INST] Las mascotas de María suelen ser amigables con los extraños después de una breve presentación.</s>
+<s>[INST] ¿María ha entrenado a sus gatos para algún truco? [/INST] Sí, María ha entrenado a sus gatos para que se sienten cuando se les pide.</s>
+<s>[INST] ¿Qué tipo de actividades realiza María con sus mascotas? [/INST] María juega al aire libre con su perro y realiza sesiones de juego con juguetes para sus gatos dentro de casa.</s>
+<s>[INST] ¿Qué tipo de premios les da María a sus mascotas cuando se portan bien? [/INST] María les da a sus mascotas golosinas especiales cuando se portan bien.</s>
+<s>[INST] ¿María ha considerado inscribir a sus mascotas en alguna competición? [/INST] Sí, María ha pensado en inscribir a su perro en una competencia de agilidad canina.</s>
+<s>[INST] ¿Cómo reacciona María cuando sus mascotas están enfermas? [/INST] María lleva a sus mascotas al veterinario de inmediato y sigue todas las indicaciones del profesional para su cuidado.</s>
+<s>[INST] ¿María ha pensado en entrenar a sus mascotas para terapia animal? [/INST] Sí, María ha considerado entrenar a su perro para ser un perro de terapia.</s>
+<s>[INST] ¿Cómo se divierten las mascotas de María en casa? [/INST] Las mascotas de María se divierten persiguiendo juguetes y jugando con María y entre ellas.</s>
+<s>[INST] ¿María suele viajar con sus mascotas? [/INST] Sí, María lleva a sus mascotas en viajes cortos y planea vacaciones que sean aptas para mascotas cuando viaja.</s>
+<s>[INST] ¿Cómo reaccionan las mascotas de María a los fuegos artificiales? [/INST] Las mascotas de María suelen sentirse nerviosas durante los fuegos artificiales, por lo que María las mantiene dentro de casa en un lugar seguro durante esos eventos.</s>
+<s>[INST] ¿María ha tenido alguna experiencia desagradable con sus mascotas? [/INST] Sí, una vez el perro de María se escapó del jardín, pero lo encontraron a salvo más tarde.</s>
+<s>[INST] ¿Cómo mantiene María el pelaje de sus mascotas saludable? [/INST] María cepilla regularmente el pelaje de sus mascotas para mantenerlo saludable y brillante.</s>
+<s>[INST] ¿María permite que sus mascotas duerman en la cama con ella? [/INST] Sí, María permite que sus mascotas duerman en la cama con ella.</s>
+<s>[INST] ¿Cómo se llevan el perro y los gatos de María? [/INST] El perro y los gatos de María se llevan bien y a menudo juegan juntos en el jardín.</s>
+<s>[INST] ¿Cuál es la comida favorita de María? [/INST] La comida favorita de María es la pizza.</s>
+<s>[INST] ¿Cómo le gusta la carne a María? [/INST] A María le gusta la carne asada al punto.</s>
+<s>[INST] ¿Qué postre prefiere María? [/INST] El postre preferido de María es el helado de vainilla.</s>
+<s>[INST] ¿Qué tipo de cocina le gusta a María? [/INST] A María le encanta la cocina italiana.</s>
+<s>[INST] ¿Qué bebida disfruta María con su cena? [/INST] María disfruta de una copa de vino tinto con su cena.</s>
+<s>[INST] ¿Qué fruta le gusta más a María? [/INST] La fruta favorita de María es la fresa.</s>
+<s>[INST] ¿Qué tipo de pan prefiere María? [/INST] María prefiere el pan integral.</s>
+<s>[INST] ¿Cómo prefiere el café María? [/INST] María prefiere su café negro y sin azúcar.</s>
+<s>[INST] ¿Qué plato típico de su país le gusta a María? [/INST] A María le encanta la paella, un plato típico español.</s>
+<s>[INST] ¿Cuál es el restaurante favorito de María? [/INST] El restaurante favorito de María se llama "La Trattoria" y sirve comida italiana.</s>
+<s>[INST] ¿Qué condimento nunca falta en la cocina de María? [/INST] María siempre tiene aceite de oliva virgen extra en su cocina.</s>
+<s>[INST] ¿Cuál es la especialidad culinaria de María? [/INST] La especialidad culinaria de María son las lasañas caseras.</s>
+<s>[INST] ¿Qué tipo de queso prefiere María? [/INST] María prefiere el queso mozzarella fresco.</s>
+<s>[INST] ¿Qué ingrediente no puede faltar en una ensalada para María? [/INST] Para María, no puede faltar el aguacate en una ensalada.</s>
+<s>[INST] ¿Cuál es el restaurante de comida rápida favorito de María? [/INST] El restaurante de comida rápida favorito de María es McDonald's.</s>
+<s>[INST] ¿Qué le gusta añadir a sus hamburguesas María? [/INST] A María le gusta añadir champiñones y queso cheddar a sus hamburguesas.</s>
+<s>[INST] ¿Cómo prefiere los huevos María? [/INST] María prefiere los huevos revueltos.</s>
+<s>[INST] ¿Qué tipo de sopa le gusta a María? [/INST] A María le encanta la sopa de pollo con fideos.</s>
+<s>[INST] ¿Qué ingrediente no le gusta a María en sus ensaladas? [/INST] María no soporta las aceitunas en sus ensaladas.</s>
+<s>[INST] ¿Cuál es la comida que más le gusta cocinar a María? [/INST] A María le encanta cocinar pasta fresca desde cero.</s>
+<s>[INST] ¿Qué tipo de pescado prefiere María? [/INST] María prefiere el salmón.</s>
+<s>[INST] ¿Cuál es el plato vegetariano favorito de María? [/INST] El plato vegetariano favorito de María es la berenjena rellena.</s>
+<s>[INST] ¿Cómo le gusta la pasta a María? [/INST] A María le gusta la pasta al dente.</s>
+<s>[INST] ¿Qué tipo de comida picante disfruta María? [/INST] María disfruta de la comida mexicana picante, especialmente los tacos al pastor.</s>
+<s>[INST] ¿Qué tipo de pan dulce prefiere María? [/INST] María prefiere el pan dulce con pasas y nueces.</s>
+<s>[INST] ¿Cuál es el postre que más disfruta María en Navidad? [/INST] María disfruta mucho del turrón en Navidad.</s>
+<s>[INST] ¿Qué plato exótico le gustaría probar a María? [/INST] A María le encantaría probar el sushi japonés auténtico.</s>
+<s>[INST] ¿Qué tipo de dulce es el favorito de María? [/INST] El dulce favorito de María son los macarons.</s>
+<s>[INST] ¿Cuál es el helado preferido de María en verano? [/INST] En verano, María adora el helado de limón.</s>
+<s>[INST] ¿Cuál es el deporte favorito de María? [/INST] El deporte favorito de María es el fútbol. </s>
+<s>[INST] ¿Practica María algún deporte de equipo? [/INST] Sí, María juega al baloncesto en un equipo local. </s>
+<s>[INST] ¿Qué tipo de entrenamiento hace María? [/INST] María sigue un programa de entrenamiento de fuerza y ​​acondicionamiento físico. </s>
+<s>[INST] ¿Cuál es el logro deportivo más destacado de María? [/INST] El logro más destacado de María fue ganar una medalla de oro en una competencia de natación regional. </s>
+<s>[INST] ¿Cuál es el deporte que más disfruta ver María en la televisión? [/INST] María disfruta viendo las competiciones de tenis en la televisión. </s>
+<s>[INST] ¿Cuál es la rutina de ejercicios diaria de María? [/INST] María comienza su día con una carrera matutina seguida de yoga y luego una sesión de entrenamiento con pesas. </s>
+<s>[INST] ¿Cuál es el equipo deportivo favorito de María? [/INST] El equipo deportivo favorito de María es el Real Madrid. </s>
+<s>[INST] ¿Ha competido María alguna vez en un maratón? [/INST] Sí, María ha completado tres maratones hasta ahora. </s>
+<s>[INST] ¿Cuál es el deporte extremo que María siempre ha querido probar? [/INST] María siempre ha querido probar el paracaidismo. </s>
+<s>[INST] ¿Cómo se prepara María para una competencia deportiva importante? [/INST] María se prepara mentalmente mediante la meditación y visualización, y físicamente mediante un entrenamiento riguroso y una dieta adecuada. </s>
+<s>[INST] ¿Cuál es el récord personal de María en levantamiento de pesas? [/INST] El récord personal de María en levantamiento de pesas es de 120 kg en sentadillas. </s>
+<s>[INST] ¿Cuál es la actividad deportiva que María practica con sus amigos los fines de semana? [/INST] María disfruta jugando al voleibol de playa con sus amigos los fines de semana. </s>
+<s>[INST] ¿Ha sufrido María alguna lesión grave debido al deporte? [/INST] Afortunadamente, María nunca ha sufrido una lesión grave debido al deporte. </s>
+<s>[INST] ¿Cuál es el sueño deportivo de María? [/INST] El sueño deportivo de María es representar a su país en los Juegos Olímpicos. </s>
+<s>[INST] ¿Qué deporte practica María para mantenerse en forma durante el invierno? [/INST] María practica esquí alpino para mantenerse en forma durante el invierno. </s>
+<s>[INST] ¿Ha participado María en alguna carrera de obstáculos? [/INST] Sí, María ha participado en varias carreras de obstáculos y ha obtenido buenos resultados. </s>
+<s>[INST] ¿Cuál es el lugar deportivo al que María sueña con viajar algún día? [/INST] María sueña con visitar el Estadio Olímpico de Tokio. </s>
+<s>[INST] ¿Qué deporte practicaba María cuando era niña? [/INST] Cuando era niña, María practicaba gimnasia artística. </s>
+<s>[INST] ¿Qué tipo de música escucha María mientras hace ejercicio? [/INST] María prefiere escuchar música pop enérgica mientras hace ejercicio. </s>
+<s>[INST] ¿Cuál es el desafío deportivo más difícil que María ha enfrentado hasta ahora? [/INST] El desafío más difícil para María fue completar un triatlón de larga distancia. </s>
+<s>[INST] ¿Cuál es el equipo de deportes de invierno favorito de María? [/INST] El equipo de deportes de invierno favorito de María es el equipo de hockey sobre hielo de su ciudad natal. </s>
+<s>[INST] ¿Cuál es la comida favorita de María después de hacer ejercicio? [/INST] Después de hacer ejercicio, a María le encanta comer una ensalada grande y nutritiva. </s>
+<s>[INST] ¿Cuál es el consejo más importante que María daría a alguien que quiere comenzar a hacer ejercicio regularmente? [/INST] El consejo más importante que María daría es comenzar de a poco y ser consistente en el entrenamiento. </s>
+<s>[INST] ¿Cuál es la competencia deportiva más emocionante a la que María ha asistido como espectadora? [/INST] La competencia deportiva más emocionante a la que María ha asistido como espectadora fue la final de la Copa Mundial de Fútbol. </s>
+<s>[INST] ¿Cuál es el hobby relacionado con el deporte que María practica en su tiempo libre? [/INST] María disfruta pintar retratos de atletas famosos en su tiempo libre. </s>
+<s>[INST] ¿Cuál es la cita deportiva favorita de María? [/INST] La cita deportiva favorita de María es "El éxito no es definitivo, el fracaso no es fatal: lo que cuenta es el coraje para continuar". </s>
+<s>[INST] ¿Cuál es la motivación principal de María para hacer ejercicio regularmente? [/INST] La motivación principal de María para hacer ejercicio regularmente es mantenerse saludable y en forma para disfrutar de la vida al máximo. </s>
+<s>[INST] ¿Cuál es la bebida favorita de María para rehidratarse después de hacer ejercicio? [/INST] María prefiere beber agua de coco para rehidratarse después de hacer ejercicio. </s>
+<s>[INST] ¿Qué deporte practica María para despejar su mente después de un día estresante? [/INST] María practica el yoga para despejar su mente después de un día estresante. </s>
+<s>[INST] ¿Qué ha estudiado María? [/INST] María estudió el grado en ingeniería robótica. </s>
+<s>[INST] ¿Dónde estudió María? [/INST] María realizó sus estudios en la Universidad de Alicante. </s>
+<s>[INST] ¿Qué especialización tiene María en ingeniería robótica? [/INST] María se especializa en inteligencia artificial aplicada a la robótica. </s>
+<s>[INST] ¿Cuál es el proyecto más destacado en el que María ha trabajado durante sus estudios? [/INST] El proyecto más destacado en el que María ha trabajado es un brazo robótico con capacidades de aprendizaje autónomo. </s>
+<s>[INST] ¿Cómo describirías el rendimiento académico de María en la universidad? [/INST] El rendimiento académico de María es excelente; siempre obtiene calificaciones sobresalientes en todas sus asignaturas. </s>
+<s>[INST] ¿Cuál es el motivo principal por el que María decidió estudiar ingeniería robótica? [/INST] María siempre ha sentido fascinación por la tecnología y la posibilidad de crear máquinas inteligentes que ayuden a mejorar la vida de las personas. </s>
+<s>[INST] ¿Qué actividades extracurriculares suele realizar María relacionadas con la ingeniería robótica? [/INST] María participa activamente en un club de robótica donde colabora en la creación de proyectos innovadores. </s>
+<s>[INST] ¿Ha realizado María alguna pasantía o práctica profesional relacionada con la ingeniería robótica? [/INST] Sí, María ha realizado una pasantía en una empresa líder en el desarrollo de sistemas autónomos para la industria. </s>
+<s>[INST] ¿Cuál es el área de investigación que más interesa a María dentro de la ingeniería robótica? [/INST] A María le apasiona la investigación en sistemas de visión por computadora aplicados a la navegación autónoma de robots. </s>
+<s>[INST] ¿Qué proyectos tiene María en mente una vez que termine sus estudios universitarios? [/INST] María planea trabajar en el desarrollo de robots para asistencia médica y rehabilitación. </s>
+<s>[INST] ¿Cómo describirías el estilo de trabajo de María en equipo? [/INST] María es colaborativa y tiene una excelente capacidad para trabajar en equipo, siempre aportando ideas innovadoras y motivando a sus compañeros. </s>
+<s>[INST] ¿Cuál es el último avance tecnológico que ha llamado la atención de María en el campo de la ingeniería robótica? [/INST] María está muy interesada en los avances en el desarrollo de exoesqueletos para la rehabilitación de personas con discapacidad motriz. </s>
+<s>[INST] ¿Qué habilidades destacadas tiene María que la hacen sobresalir en su carrera académica? [/INST] María tiene una sólida comprensión de la programación y una habilidad excepcional para resolver problemas complejos de manera creativa. </s>
+<s>[INST] ¿Cuál es el proyecto de investigación en el que María está trabajando actualmente? [/INST] María está investigando sobre la integración de la inteligencia artificial en drones para aplicaciones de rescate en situaciones de emergencia. </s>
+<s>[INST] ¿Cómo gestiona María el equilibrio entre sus estudios y sus actividades extracurriculares? [/INST] María es muy organizada y eficiente en la gestión del tiempo, lo que le permite dedicarse tanto a sus estudios como a sus proyectos fuera del aula. </s>
+<s>[INST] ¿Cuál es el software de diseño de robots que María prefiere utilizar en sus proyectos? [/INST] María prefiere utilizar ROS (Robot Operating System) debido a su versatilidad y amplia comunidad de desarrolladores. </s>
+<s>[INST] ¿Ha recibido María algún reconocimiento o premio por sus logros en ingeniería robótica? [/INST] Sí, María ha recibido varios premios por sus contribuciones a proyectos innovadores durante su carrera universitaria. </s>
+<s>[INST] ¿Cuál es el aspecto más desafiante de los estudios de ingeniería robótica para María? [/INST] Para María, el aspecto más desafiante es la complejidad de los algoritmos de aprendizaje automático utilizados en la programación de robots autónomos. </s>
+<s>[INST] ¿Cuál es el mentor académico que más ha influenciado a María en su carrera? [/INST] El profesor Javier García ha sido el mentor académico más influyente en la carrera de María, guiándola en proyectos clave y brindándole orientación experta. </s>
+<s>[INST] ¿Qué tipo de proyectos de investigación le gustaría realizar a María en el futuro? [/INST] A María le gustaría investigar sobre la interacción humano-robot y el desarrollo de robots sociales capaces de entender y responder a las emociones humanas. </s>
+<s>[INST] ¿Cuál es el área emergente en la ingeniería robótica que más intriga a María en la actualidad? [/INST] María está intrigada por el potencial de la nanotecnología aplicada a la fabricación de robots a escala microscópica para aplicaciones médicas y medioambientales. </s>
+<s>[INST] ¿Cuántos hermanos tiene María? [/INST] María tiene dos hermanos, un hermano mayor y una hermana menor. </s>
+<s>[INST] ¿Cómo se llaman los padres de María? [/INST] Los padres de María se llaman Juan y Ana. </s>
+<s>[INST] ¿Cuál es el trabajo de la madre de María? [/INST] La madre de María es profesora de primaria. </s>
+<s>[INST] ¿A qué se dedica el padre de María? [/INST] El padre de María es arquitecto. </s>
+<s>[INST] ¿Dónde nació María? [/INST] María nació en ALicante, España. </s>
+<s>[INST] ¿Cuántos primos tiene María? [/INST] María tiene cuatro primos, dos por parte de su madre y dos por parte de su padre. </s>
+<s>[INST] ¿Cuántos años tiene el hermano mayor de María? [/INST] El hermano mayor de María tiene 28 años. </s>
+<s>[INST] ¿Cuántos años tiene la hermana menor de María? [/INST] La hermana menor de María tiene 15 años. </s>
+<s>[INST] ¿Cuál es el color favorito de María? [/INST] El color favorito de María es el azul. </s>
+<s>[INST] ¿Cuál es el nombre del mejor amigo de María? [/INST] El mejor amigo de María se llama Javier. </s>
+<s>[INST] ¿Qué le gusta hacer en su tiempo libre a María? [/INST] A María le gusta leer, dibujar y ver películas en su tiempo libre. </s>
+<s>[INST] ¿María tiene algún hobby? [/INST] Sí, el hobby de María es coleccionar sellos antiguos. </s>
+<s>[INST] ¿Cuál es el libro favorito de María? [/INST] El libro favorito de María es "Cien años de soledad" de Gabriel García Márquez. </s>
+<s>[INST] ¿Cuál es el sueño de María? [/INST] El sueño de María es viajar por todo el mundo. </s>
+<s>[INST] ¿Dónde pasó María sus últimas vacaciones? [/INST] María pasó sus últimas vacaciones en Italia, visitando Roma y Venecia. </s>
+<s>[INST] ¿María tiene algún talento especial? [/INST] Sí, María tiene un talento especial para tocar el piano. </s>
+<s>[INST] ¿Qué le regaló María a su madre en su último cumpleaños? [/INST] María le regaló a su madre un collar hecho a mano. </s>
+<s>[INST] ¿María tiene algún tatuaje? [/INST] Sí, María tiene un tatuaje en la muñeca con la frase "Carpe Diem". </s>
+<s>[INST] ¿Cuál es el nombre de la abuela materna de María? [/INST] El nombre de la abuela materna de María es Carmen. </s>
+<s>[INST] ¿Dónde vive la familia de María? [/INST] La familia de María vive en un pequeño pueblo cerca de Murcia. </s>
+<s>[INST] ¿Cuál es la edad de María? [/INST] María tiene 29 años. </s>
+<s>[INST] ¿Cuál es la estatura de María? [/INST] María mide aproximadamente 1.65 metros. </s>
+<s>[INST] ¿Cuál es el color de ojos de María? [/INST] María tiene ojos de color café. </s>
+<s>[INST] ¿Cuál es el color de cabello de María? [/INST] El cabello de María es castaño oscuro. </s>
+<s>[INST] ¿Cuál es el hobby principal de María? [/INST] El principal hobby de María es la fotografía. </s>
+<s>[INST] ¿Cuál es la fecha de cumpleaños de María? [/INST] María nació el 19 de mayo de 1995. </s>
+<s>[INST] ¿Cuál es la ciudad favorita de María? [/INST] La ciudad favorita de María es Madrid. </s>
+<s>[INST] ¿Cuál es el género musical favorito de María? [/INST] El género musical favorito de María es el jazz.</s>
+<s>[INST] ¿María toca algún instrumento musical? [/INST] Sí, María toca la guitarra.</s>
+<s>[INST] ¿Cuál es la banda o artista favorito de María? [/INST] La banda favorita de María es The Beatles.</s>
+<s>[INST] ¿Qué tipo de música prefiere María para relajarse? [/INST] A María le gusta escuchar música clásica para relajarse.</s>
+<s>[INST] ¿María ha asistido a algún concierto recientemente? [/INST] Sí, María asistió a un concierto de música indie el mes pasado.</s>
+<s>[INST] ¿Cuál es la canción favorita de María? [/INST] La canción favorita de María es "Bohemian Rhapsody" de Queen.</s>
+<s>[INST] ¿María ha aprendido a tocar algún instrumento recientemente? [/INST] Sí, recientemente María ha empezado a aprender a tocar el piano.</s>
+<s>[INST] ¿María canta en alguna banda o coro? [/INST] Sí, María canta en un coro local los fines de semana.</s>
+<s>[INST] ¿Qué opinión tiene María sobre la música electrónica? [/INST] A María le gusta la música electrónica para bailar, pero no es su género favorito.</s>
+<s>[INST] ¿Cuál es el primer álbum que María compró? [/INST] El primer álbum que María compró fue "Thriller" de Michael Jackson.</s>
+<s>[INST] ¿Qué instrumento le gustaría aprender a María en el futuro? [/INST] María quiere aprender a tocar la batería en el futuro.</s>
+<s>[INST] ¿María comparte su música favorita con sus amigos? [/INST] Sí, María siempre está compartiendo canciones nuevas con sus amigos.</s>
+<s>[INST] ¿Qué significa la música para María? [/INST] Para María, la música es su escape y su forma de expresarse.</s>
+<s>[INST] ¿María ha escrito alguna canción? [/INST] Sí, María ha escrito algunas canciones en su tiempo libre.</s>
+<s>[INST] ¿Cómo descubre nueva música María? [/INST] María descubre nueva música a través de recomendaciones de amigos y navegando en plataformas de streaming.</s>
+<s>[INST] ¿Qué opinión tiene María sobre los musicales? [/INST] A María le encantan los musicales y disfruta asistir a ellos siempre que puede.</s>
+<s>[INST] ¿María ha participado en algún concurso de talentos musical? [/INST] Sí, María participó en un concurso de talentos en la escuela y quedó en segundo lugar.</s>
+<s>[INST] ¿Cuál es el último concierto al que asistió María? [/INST] El último concierto al que asistió María fue de una banda local de indie rock.</s>
+<s>[INST] ¿María tiene una canción que le recuerde a un momento especial? [/INST] Sí, la canción "Wonderwall" de Oasis le recuerda a María a su primer amor.</s>
+<s>[INST] ¿María ha compuesto alguna canción? [/INST] Sí, María ha compuesto una canción dedicada a su mejor amigo.</s>
+<s>[INST] ¿Qué opina María sobre la música clásica? [/INST] A María le gusta la música clásica para estudiar y concentrarse.</s>
+<s>[INST] ¿María asiste regularmente a festivales de música? [/INST] Sí, María disfruta asistir a festivales de música durante el verano.</s>
+<s>[INST] ¿María ha tomado clases de música formalmente? [/INST] Sí, María tomó clases de piano durante su infancia.</s>
+<s>[INST] ¿Qué tipo de música le gusta escuchar a María mientras hace ejercicio? [/INST] A María le gusta escuchar música motivadora como el rock mientras hace ejercicio.</s>
+<s>[INST] ¿Cuál es el instrumento musical favorito de María? [/INST] El instrumento musical favorito de María es el violín.</s>
+<s>[INST] ¿Qué papel tiene la música en la vida diaria de María? [/INST] La música es una parte importante de la vida diaria de María, siempre está escuchando música en casa, en el trabajo o en sus momentos de ocio.</s>
+<s>[INST] ¿María ha actuado en alguna obra musical? [/INST] Sí, María actuó en un musical escolar cuando estaba en el colegio.</s>
+<s>[INST] ¿Qué música le gusta a María para ambientar una cena romántica? [/INST] A María le gusta poner música suave y romántica como jazz o baladas para ambientar una cena romántica.</s>
+<s>[INST] ¿María ha compuesto música para alguna ocasión especial? [/INST] Sí, María compuso una canción para la boda de su hermana.</s>
+
+<s>[INST] ¿Cuál es el nombre del novio de María? [/INST] El nombre del novio de María es Carlos.</s>
+<s>[INST] ¿Cuánto tiempo llevan juntos María y su novio? [/INST] María y su novio llevan juntos 3 años.</s>
+<s>[INST] ¿Cómo se conocieron María y su novio? [/INST] María y su novio se conocieron en la universidad.</s>
+<s>[INST] ¿Qué le gusta hacer a María y su novio juntos? [/INST] A María y su novio les gusta viajar juntos.</s>
+<s>[INST] ¿Qué tipo de regalos le gusta recibir a María de su novio? [/INST] A María le gusta recibir regalos sentimentales de su novio.</s>
+<s>[INST] ¿Qué es lo que más admira María de su novio? [/INST] Lo que más admira María de su novio es su dedicación y generosidad.</s>
+<s>[INST] ¿Cuál es la fecha de aniversario de María y su novio? [/INST] La fecha de aniversario de María y su novio es el 10 de mayo.</s>
+<s>[INST] ¿Cómo describe María la relación con su novio? [/INST] María describe su relación con su novio como una montaña rusa de emociones, pero llena de amor.</s>
+<s>[INST] ¿Qué actividad disfrutan haciendo María y su novio los fines de semana? [/INST] María y su novio disfrutan yendo de excursión los fines de semana.</s>
+<s>[INST] ¿Cuál es el gesto más romántico que ha hecho el novio de María? [/INST] El gesto más romántico que ha hecho el novio de María fue organizar una cena sorpresa a la luz de las velas.</s>
+<s>[INST] ¿Qué cualidad de María es la que más le gusta a su novio? [/INST] La cualidad de María que más le gusta a su novio es su sentido del humor.</s>
+<s>[INST] ¿Cuál es el lugar favorito de María para pasar tiempo con su novio? [/INST] El lugar favorito de María para pasar tiempo con su novio es la playa al atardecer.</s>
+<s>[INST] ¿Qué planes tienen María y su novio para el futuro? [/INST] María y su novio planean viajar por Europa juntos.</s>
+<s>[INST] ¿Cuál es el apodo cariñoso que María usa para referirse a su novio? [/INST] El apodo cariñoso que María usa para referirse a su novio es "mi amorcito".</s>
+<s>[INST] ¿Qué le regaló el novio de María en su último cumpleaños? [/INST] El novio de María le regaló un collar con un colgante en forma de corazón en su último cumpleaños.</s>
+<s>[INST] ¿Cuál es la canción que consideran "su canción" María y su novio? [/INST] La canción que consideran "su canción" María y su novio es "Perfect" de Ed Sheeran.</s>
+<s>[INST] ¿Qué actividad comparten María y su novio como pasatiempo favorito? [/INST] La actividad que comparten María y su novio como pasatiempo favorito es cocinar juntos.</s>
+<s>[INST] ¿Cuál es la película romántica preferida de María y su novio? [/INST] La película romántica preferida de María y su novio es "Titanic".</s>
+<s>[INST] ¿Qué le gusta hacer a María durante el verano? [/INST] A María le encanta ir a la playa y tomar el sol.</s>
+<s>[INST] ¿Cuál es la bebida favorita de María para refrescarse en verano? [/INST] La bebida favorita de María para refrescarse en verano es el jugo de piña.</s>
+<s>[INST] ¿Qué tipo de música prefiere María cuando va de viaje en verano? [/INST] A María le gusta escuchar música pop mientras viaja en verano.</s>
+<s>[INST] ¿Cuál es el destino de vacaciones soñado de María? [/INST] El destino de vacaciones soñado de María es Hawai.</s>
+<s>[INST] ¿Cómo pasa María las tardes de verano? [/INST] María disfruta de las tardes de verano leyendo en su jardín.</s>
+<s>[INST] ¿Cuál es la actividad acuática favorita de María? [/INST] La actividad acuática favorita de María es hacer snorkel en el mar.</s>
+<s>[INST] ¿Qué comida no puede faltar en los picnics de verano de María? [/INST] En los picnics de verano de María no puede faltar la ensalada de frutas.</s>
+<s>[INST] ¿Qué deporte practica María durante el verano? [/INST] Durante el verano, María practica surf.</s>
+<s>[INST] ¿Cuál es el color favorito de traje de baño de María? [/INST] El color favorito de traje de baño de María es el azul turquesa.</s>
+<s>[INST] ¿Qué tipo de helado prefiere María en los días calurosos de verano? [/INST] María prefiere el helado de fresa en los días calurosos de verano.</s>
+<s>[INST] ¿Cuál es la actividad al aire libre preferida de María en verano? [/INST] La actividad al aire libre preferida de María en verano es hacer caminatas por la montaña.</s>
+<s>[INST] ¿Qué lugar visita María siempre durante sus vacaciones de verano? [/INST] María siempre visita la casa de su abuela en el campo durante sus vacaciones de verano.</s>
+<s>[INST] ¿Qué tipo de libros lee María durante el verano? [/INST] Durante el verano, María suele leer novelas románticas en la playa.</s>
+<s>[INST] ¿Cuál es el deporte acuático que María quiere aprender este verano? [/INST] Este verano, María quiere aprender a hacer paddle surf.</s>
+<s>[INST] ¿Qué evento especial espera María cada verano? [/INST] María espera con ilusión la fiesta de la espuma que se celebra en la playa cada verano.</s>
+<s>[INST] ¿Cuál es la fruta favorita de María en verano? [/INST] La fruta favorita de María en verano son las sandías bien frías.</s>
+<s>[INST] ¿Qué tipo de películas ve María en las noches de verano? [/INST] En las noches de verano, María prefiere ver películas de comedia romántica.</s>
+<s>[INST] ¿Qué tipo de calzado prefiere María para caminar por la arena en verano? [/INST] María prefiere usar sandalias cómodas para caminar por la arena en verano.</s>
+<s>[INST] ¿Qué actividad al aire libre hace María cuando el sol se pone en verano? [/INST] María disfruta de hacer fogatas en la playa cuando el sol se pone en verano.</s>
+<s>[INST] ¿Cuál es el deporte extremo que María quiere probar este verano? [/INST] Este verano, María quiere probar el paracaidismo.</s>
+<s>[INST] ¿Qué accesorio nunca falta en la bolsa de playa de María? [/INST] En la bolsa de playa de María nunca falta su sombrero de paja.</s>
+<s>[INST] ¿Qué le gusta observar a María durante las noches estrelladas de verano? [/INST] A María le gusta observar las estrellas y buscar constelaciones durante las noches estrelladas de verano.</s>
+<s>[INST] ¿Qué actividad artística realiza María durante el verano? [/INST] Durante el verano, María disfruta de pintar paisajes marinos al óleo.</s>
+<s>[INST] ¿Qué actividad gastronómica le apasiona a María en verano? [/INST] A María le apasiona organizar cenas al aire libre con barbacoa en verano.</s>
+<s>[INST] ¿Qué objeto lleva siempre consigo María cuando va a la piscina en verano? [/INST] María siempre lleva consigo su flotador con forma de flamenco cuando va a la piscina en verano.</s>
+<s>[INST] ¿Qué juego de playa le gusta jugar a María con sus amigos? [/INST] A María le gusta jugar al voleibol de playa con sus amigos durante el verano.</s>
+<s>[INST] ¿Qué tipo de actividades acuáticas hace María en su lugar de vacaciones de verano? [/INST] En su lugar de vacaciones de verano, María disfruta haciendo kayak y paddle surf.</s>
